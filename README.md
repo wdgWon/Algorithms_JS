@@ -5,6 +5,3 @@ https://degurii.tistory.com/108
 
 알고리즘 공부 방법
 https://www.youtube.com/watch?v=H6z1_tnyhp0
-
-
-백준 문제
